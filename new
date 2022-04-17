@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>ايميل وهمي | مهمل 10 | بريد 10 دقائق | بريد 10 | حساب وهمي | مهمل | مهمل ١٠ | بريد مهمل</title>
+        <title>ايميل وهمي | مهمل 10 | بريد 10 دقائق | بريد 10 | حساب وهمي | مهمل | مهمل ١٠ | بريد مهمل</title>
+<meta name="description" content="ايميل وهمي | مهمل 10 | بريد 10 دقائق | بريد 10 | حساب وهمي | مهمل | مهمل ١٠ | بريد مهمل | بريد عشر دقائق | ايميل مهمل | مهمل10 | بريد مؤقت 10 | بريد ١٠ دقايق | بريد الكتروني عشر دقائق">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116210756-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116210756-1');
+</script>
+
+        <link rel="icon" href="http://placebomail10.com/images/favicon.png" type="image/png">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="http://placebomail10.com/css/vendor.css">
+    <link rel="stylesheet" href="http://placebomail10.com/css/common.css">
+    <script src="http://placebomail10.com/vendor/Shortcode/Shortcode.js"></script>
+    <script src="http://placebomail10.com/js/app.js" defer></script>
+    <style>[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid] {display: none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style>
+    
+        
+    </head>
+<body>
+    <div class="default-theme">
+        <div class="flex flex-wrap">
+            <div class="w-full lg:w-1/4 bg-blue-700 py-6 lg:min-h-screen" style="background-color: #0155b5">
+                <div class="flex justify-center p-3 mb-10">
+                    <a href="http://placebomail10.com">
+                                                <img class="max-w-logo" src="http://placebomail10.com/images/logo.png" alt="logo">
+                                            </a>
+                </div>
+                                <div wire:id="Elz2HL1AkYbDeZ1svl56" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;Elz2HL1AkYbDeZ1svl56&quot;,&quot;name&quot;:&quot;frontend.actions&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;mailbox&quot;,&quot;method&quot;:&quot;GET&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[&quot;syncEmail&quot;,&quot;checkCaptcha&quot;]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;91414857&quot;,&quot;data&quot;:{&quot;in_app&quot;:false,&quot;user&quot;:null,&quot;domain&quot;:null,&quot;domains&quot;:[&quot;placebomail.com&quot;],&quot;email&quot;:&quot;sawtac@placebomail.com&quot;,&quot;emails&quot;:[&quot;sawtac@placebomail.com&quot;]},&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;02e950f94bfed90ee5b8c7802841da91f6c8bef7716c80e83956513ee36e13f9&quot;}}" x-data="{ in_app: false }">
+    <div x-show.transition.in="in_app" class="app-action mt-4 px-8" style="display: none;">
+                <form wire:submit.prevent="create" class="lg:max-w-72 lg:mx-auto" method="post">
+            <input class="block appearance-none w-full rounded-md py-4 px-5 bg-white text-white bg-opacity-10 focus:outline-none placeholder-white placeholder-opacity-50" type="text" name="user" id="user" wire:model.defer="user" placeholder="Enter Username">
+            <div class="divider mt-5"></div>
+            <div class="relative">
+                <div class="relative" x-data="{ open: false }" @click.away="open = false" @close.stop="open = false">
+    <div @click="open = ! open">
+        <input x-ref="domain" type="text" class="block appearance-none w-full bg-white text-white py-4 px-5 pr-8 bg-opacity-10 rounded-md cursor-pointer focus:outline-none select-none placeholder-white placeholder-opacity-50" placeholder="Select Domain" name="domain" id="domain" wire:model="domain" readonly>
+    </div>
+
+    <div x-show="open"
+            x-transition:enter="transition ease-out duration-200"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="absolute z-50 mt-2 w-full rounded-md shadow-lg origin-top-right right-0"
+            style="display: none;"
+            @click="open = false">
+        <div class="rounded-md shadow-xs py-1 bg-white">
+            <a x-on:click="$refs.domain.value = 'placebomail.com'; $wire.setDomain('placebomail.com')" class='block px-4 py-2 text-sm leading-5 text-gray-700 cursor-pointer hover:bg-gray-100 focus:outline-none focus:bg-gray-100 transition duration-150 ease-in-out'>placebomail.com</a>
+        </div>
+    </div>
+</div>
+                <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-5 text-white">
+                    <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+                </div>
+            </div>
+            <div class="divider mt-5"></div>
+            <input id="create" class="block appearance-none w-full rounded-md py-4 px-5 bg-teal-500 text-white cursor-pointer focus:outline-none" style="background-color: #2fc10a" type="submit" value="Create">
+            <div class="divider my-8 flex justify-center">
+                <div class="border-t-2 w-2/3 border-white border-opacity-25"></div>
+            </div>
+        </form>
+        <form wire:submit.prevent="random" class="lg:max-w-72 lg:mx-auto" method="post">
+            <input id="random" class="block appearance-none w-full rounded-md py-4 px-5 bg-yellow-500 text-white cursor-pointer focus:outline-none" style="background-color: #d2ab3e" type="submit" value="Random">
+        </form>
+                <div class="lg:max-w-72 lg:mx-auto">
+            <button x-on:click="in_app = false" class="block appearance-none w-full rounded-md my-5 py-2 px-5 bg-white bg-opacity-10 text-white text-sm cursor-pointer focus:outline-none">Cancel</button>
+        </div>
+            </div>
+    <div x-show.transition.in="!in_app" class="in-app-actions mt-4 px-8" style="display: none;">
+        <form class="lg:max-w-72 lg:mx-auto" action="#" method="post">
+            <div class="relative">
+                <div class="relative" x-data="{ open: false }" @click.away="open = false" @close.stop="open = false">
+    <div @click="open = ! open">
+        <div class="block appearance-none w-full bg-white text-white py-4 px-5 pr-8 bg-opacity-10 rounded-md cursor-pointer focus:outline-none select-none" id="email_id">sawtac@placebomail.com</div>
+    </div>
+
+    <div x-show="open"
+            x-transition:enter="transition ease-out duration-200"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="absolute z-50 mt-2 w-full rounded-md shadow-lg origin-top"
+            style="display: none;"
+            @click="open = false">
+        <div class="rounded-md shadow-xs py-1 bg-white">
+            <a class="block px-4 py-2 text-sm leading-5 text-gray-700 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 transition duration-150 ease-in-out" href="http://placebomail10.com/switch/sawtac@placebomail.com">sawtac@placebomail.com</a>
+        </div>
+    </div>
+</div>
+                <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-white">
+                    <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+                </div>
+            </div>
+        </form>
+        <div class="divider mt-5"></div>
+        <div class="grid grid-cols-4 lg:grid-cols-2 gap-2 lg:gap-6 lg:max-w-72 lg:mx-auto">
+            <div id="btn_copy" class="bg-white bg-opacity-10 text-white rounded-md py-5 lg:py-10 text-center hover:bg-opacity-25 cursor-pointer">
+                <div class="text-xl lg:text-3xl mx-auto">
+                    <i class="far fa-copy"></i>
+                </div>
+                <div class="text-xs lg:text-base pt-5">Copy</div>
+            </div>
+            <div onclick="document.getElementById('refresh').classList.remove('pause-spinner')" wire:click="$emit('fetchMessages')" class="bg-white bg-opacity-10 text-white rounded-md py-5 lg:py-10 text-center hover:bg-opacity-25 cursor-pointer">
+                <div class="text-xl lg:text-3xl  mx-auto">
+                    <i id="refresh" class="fas fa-sync-alt fa-spin"></i>
+                </div>
+                <div class="text-xs lg:text-base pt-5">Refresh</div>
+            </div>
+            <div x-on:click="in_app = true" class="bg-white bg-opacity-10 text-white rounded-md py-5 lg:py-10 text-center hover:bg-opacity-25 cursor-pointer">
+                <div class="text-xl lg:text-3xl  mx-auto">
+                    <i class="far fa-plus-square"></i>
+                </div>
+                <div class="text-xs lg:text-base pt-5">New</div>
+            </div>
+            <div wire:click="deleteEmail" class="bg-white bg-opacity-10 text-white rounded-md py-5 lg:py-10 text-center hover:bg-opacity-25 cursor-pointer">
+                <div class="text-xl lg:text-3xl  mx-auto">
+                    <i class="far fa-trash-alt"></i>
+                </div>
+                <div class="text-xs lg:text-base pt-5">Delete</div>
+            </div>
+        </div>
+    </div>
+    </div>                            </div>
+            <div class="w-full lg:w-3/4">
+                <nav wire:id="fvgc7DjivuTHQpVBCgsa" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;fvgc7DjivuTHQpVBCgsa&quot;,&quot;name&quot;:&quot;frontend.nav&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;mailbox&quot;,&quot;method&quot;:&quot;GET&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;65d2e9eb&quot;,&quot;data&quot;:{&quot;menus&quot;:[[],[],[],[],[]],&quot;current_route&quot;:null},&quot;dataMeta&quot;:{&quot;modelCollections&quot;:{&quot;menus&quot;:{&quot;class&quot;:&quot;App\\Models\\Menu&quot;,&quot;id&quot;:[2,3,4,5,6],&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;}}},&quot;checksum&quot;:&quot;4df7fb1ab8af16f320c5e582ab309e0ffc4e06afcf9ac4f1dc091f196a1df5c3&quot;}}">
+    <div class="bg-gray-100 px-5 hidden lg:flex sticky top-0 z-40 h-24">
+        <div class="w-full my-auto">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <div class="flex items-baseline space-x-4">
+                                                                                                                    <a href="https://placebomail10.com/junk-10" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-gray-700  rounded-lg md:w-auto md:inline hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none" target="_self">مهمل 10 | بريد مهمل  10</a>
+                                                                                                                                                                                <a href="https://placebomail10.com/10-minute-mail" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-gray-700  rounded-lg md:w-auto md:inline hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none" target="_self">بريد 10 دقائق</a>
+                                                                                                                                                                                <a href="https://placebomail10.com/neglected-10-mail" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-gray-700  rounded-lg md:w-auto md:inline hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none" target="_self">مهمل ١٠ | بريد مهمل</a>
+                                                                                                                                                                                <a href="https://placebomail10.com/Ten-minute-mail-tentative-10" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-gray-700  rounded-lg md:w-auto md:inline hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none" target="_self"> بريد عشر دقائق  |  بريد مؤقت 10</a>
+                                                                                                                                                                                <a href="https://placebomail10.com/Sony-fake-email" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-gray-700  rounded-lg md:w-auto md:inline hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none" target="_self">ايميل وهمي سوني</a>
+                                                                                                                                </div>
+                </div>
+                <div class="flex items-center">
+                    <div>
+                                            </div>
+                    <div class="ml-4 flex items-center md:ml-6">
+                        <div class="relative">
+                            <form action="http://placebomail10.com/locale" id="locale-form" method="post">
+                                <input type="hidden" name="_token" value="ENsT1aATs6N7Nlz3w4uHDONWcTh5ctODqwaHdT3X">                                <select class="block appearance-none bg-gray-200 cursor-pointer text-gray-800 px-2 py-1 pr-5 rounded-md focus:outline-none" name="locale" id="locale">
+                                                                        <option >ar</option>
+                                                                        <option >de</option>
+                                                                        <option selected>en</option>
+                                                                        <option >fr</option>
+                                                                        <option >hi</option>
+                                                                        <option >pl</option>
+                                                                        <option >ru</option>
+                                                                        <option >es</option>
+                                                                        <option >vi</option>
+                                                                        <option >tr</option>
+                                                                    </select>
+                            </form>
+                            <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-1 text-gray-800">
+                                <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div x-data="{ open: false }">
+        <div @click="open = true" class="absolute top-12 right-6 w-8 text-white">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+        </div>
+        <div x-show="open" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" @click.away="open = false" class="flex-col lg:hidden fixed top-0 left-0 min-h-screen w-full bg-black bg-opacity-75">
+            <div @click="open = false" class="absolute top-6 right-6 w-8 text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+            </div>
+            <div class="w-full mx-auto mt-20">
+                <div class="flex flex-col items-center justify-between">
+                    <div class="flex flex-col items-center space-y-2">
+                                                                                                                    <a href="https://placebomail10.com/junk-10" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-white  rounded-lg md:w-auto md:inline focus:text-gray-900 focus:bg-gray-200 focus:outline-none" target="_self">مهمل 10 | بريد مهمل  10</a>
+                                                                                                                                                                                <a href="https://placebomail10.com/10-minute-mail" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-white  rounded-lg md:w-auto md:inline focus:text-gray-900 focus:bg-gray-200 focus:outline-none" target="_self">بريد 10 دقائق</a>
+                                                                                                                                                                                <a href="https://placebomail10.com/neglected-10-mail" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-white  rounded-lg md:w-auto md:inline focus:text-gray-900 focus:bg-gray-200 focus:outline-none" target="_self">مهمل ١٠ | بريد مهمل</a>
+                                                                                                                                                                                <a href="https://placebomail10.com/Ten-minute-mail-tentative-10" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-white  rounded-lg md:w-auto md:inline focus:text-gray-900 focus:bg-gray-200 focus:outline-none" target="_self"> بريد عشر دقائق  |  بريد مؤقت 10</a>
+                                                                                                                                                                                <a href="https://placebomail10.com/Sony-fake-email" class="px-3 py-2 text-sm font-semibold text-left bg-transparent text-white  rounded-lg md:w-auto md:inline focus:text-gray-900 focus:bg-gray-200 focus:outline-none" target="_self">ايميل وهمي سوني</a>
+                                                                                                                                </div>
+                    <div class="flex flex-col items-center space-y-2 mt-10">
+                        <div class="text-white space-x-2">
+                                                    </div>
+                        <div class="flex items-center mt-4">
+                            <div class="relative">
+                                <form action="http://placebomail10.com/locale" id="locale-form-mobile" method="post">
+                                    <input type="hidden" name="_token" value="ENsT1aATs6N7Nlz3w4uHDONWcTh5ctODqwaHdT3X">                                    <select class="block appearance-none bg-gray-200 cursor-pointer text-gray-800 px-2 py-1 pr-5 rounded-md focus:outline-none" name="locale" id="locale-mobile">
+                                                                                <option >ar</option>
+                                                                                <option >de</option>
+                                                                                <option selected>en</option>
+                                                                                <option >fr</option>
+                                                                                <option >hi</option>
+                                                                                <option >pl</option>
+                                                                                <option >ru</option>
+                                                                                <option >es</option>
+                                                                                <option >vi</option>
+                                                                                <option >tr</option>
+                                                                            </select>
+                                </form>
+                                <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-1 text-gray-800">
+                                    <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>                <div class="flex flex-col lg:min-h-tm-default">
+                                         
+                        <main wire:id="uamXK2hNI2IMDoFbwYLf" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;uamXK2hNI2IMDoFbwYLf&quot;,&quot;name&quot;:&quot;frontend.app&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;mailbox&quot;,&quot;method&quot;:&quot;GET&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[&quot;fetchMessages&quot;,&quot;syncEmail&quot;]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;8fac399b&quot;,&quot;data&quot;:{&quot;messages&quot;:[],&quot;error&quot;:&quot;&quot;,&quot;email&quot;:&quot;sawtac@placebomail.com&quot;,&quot;initial&quot;:false},&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;7333ad86dc706fba7e621377bba4fad1ea6fe7bab6fb386bff4207164dc72128&quot;}}" x-data="{ id: 0 }" class="flex-1 lg:flex">
+        <div class="w-full lg:w-1/3 bg-white flex flex-col min-h-tm-mobile">
+                <div class="flex-1 flex justify-center items-center h-40 text-gray-400 text-2xl">
+            Fetching...
+        </div>
+            </div>
+    <div class="message-content w-full lg:w-2/3 bg-white border-1 border-l border-gray-200 flex flex-col">
+        <div x-show="id === 0" class="flex-1 hidden lg:flex">
+            <div class="w-2/3 m-auto">
+                <img class="m-auto max-w-full" src="http://placebomail10.com/images/sample.jpg" alt="mails">
+                <a class="block text-center text-xs text-gray-400 pt-4" href="https://www.freepik.com" target="_blank" rel="noopener noreferrer">Above Graphic by <strong>Freepik</strong></a>
+            </div>
+        </div>
+            </div>
+</main>                                                        </div>
+            </div>
+        </div>
+    </div>
+        <div id="cookie" class="hidden fixed w-full bottom-0 left-0 p-4 bg-gray-900 text-white justify-between">
+        <div class="py-2">
+            <p>By using this website you agree to our <a href="#" target="_blank">Cookie Policy</a></p>
+        </div>
+        <div id="cookie_close" class="px-3 py-2 bg-yellow-300 text-gray-900 rounded-md cursor-pointer">
+            Close
+        </div>
+    </div>
+    
+    <!--- Helper Text for Language Translation -->
+    <div class="hidden language-helper">
+        <div class="error">Error</div>
+        <div class="success">Success</div>
+        <div class="copy_text">Email ID Copied to Clipboard</div>
+    </div>
+
+    <script src="/livewire/livewire.js?id=25f025805c3c370f7e87" data-turbo-eval="false" data-turbolinks-eval="false"></script><script data-turbo-eval="false" data-turbolinks-eval="false">window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = 'ENsT1aATs6N7Nlz3w4uHDONWcTh5ctODqwaHdT3X';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};document.addEventListener("DOMContentLoaded", function () {window.livewire.start();});</script>
+        <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const email = 'sawtac@placebomail.com';
+            document.title += ` - ${email}`;
+            Livewire.emit('syncEmail', email);
+            Livewire.emit('fetchMessages');
+        });
+    </script>
+        <script>
+        document.addEventListener('stopLoader', () => {
+            document.getElementById('refresh').classList.add('pause-spinner');
+        });
+        setInterval(() => {
+            if(document.getElementById('imap-error') === null) {
+                document.getElementById('refresh').classList.remove('pause-spinner');
+                Livewire.emit('fetchMessages')
+            }
+        }, 10 * 1000);
+    </script>
+    
+    
+</body>
+</html>
